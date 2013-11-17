@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'pg'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
@@ -28,8 +30,6 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
 gem 'mysql2psql'
-
-gem 'pg'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
