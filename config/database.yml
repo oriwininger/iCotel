@@ -30,7 +30,7 @@ test:
   socket: /tmp/mysql.sock
 
 production:
-  adapter: postgresql
+  adapter: mysql2psql
   encoding: utf8
   database: Icotel_production
   pool: 5
