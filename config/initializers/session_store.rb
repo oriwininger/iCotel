@@ -1,3 +1,3 @@
 # Be sure to restart your server when you modify this file.
 
-Icotel::Application.config.session_store :cookie_store, key: '_Icotel_session'
+ICotel::Application.config.session_store :cookie_store, key: '_iCotel_session'

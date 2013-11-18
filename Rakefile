@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Icotel::Application.load_tasks
+ICotel::Application.load_tasks
